@@ -20,3 +20,10 @@ p {
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
+
+h2 {
+    color:rebeccapurple;
+    text-align: center;
+    font-family:Garamond, serif;
+    font-size: 35px;
+}
