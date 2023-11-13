@@ -16,7 +16,7 @@ h2 {
 
 p {
     color:darkslategray;
-    text-align:center, justify;
+    text-align:justify;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -30,7 +30,7 @@ h3 {
 
 .topicos{
     color:darkslategray;
-    text-align: center;
+    text-align:justify;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
